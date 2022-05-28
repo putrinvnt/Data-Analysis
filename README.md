@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @putrinvnt
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Analysis
-- 📫 How to reach me putrinovii.pn@gmail.com
 
 <!---
 putrinvnt/putrinvnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
